@@ -1,6 +1,6 @@
 
 
- <center><img src="https://komarev.com/ghpvc/?username=mrinmoykaran&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoykaran" /> </center>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=mrinmoykaran&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoykaran"/></p>
 
 
 <!--
