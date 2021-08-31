@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mrinmoy Karan</h1>
-<h3 align="center">A passionate android developer from India currently studying in Kalyani Government Engineering College</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoykaran&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoykaran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinmoykaran" alt="mrinmoykaran" /></a> </p>
+<p align="left"> <center><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinmoykaran" alt="mrinmoykaran" /></a> </center></p>
 
-- 🔭 I’m currently working on **Exam Room**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
