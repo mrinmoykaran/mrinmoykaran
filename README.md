@@ -1,17 +1,114 @@
+<h1 align="center">Mrinmoy Karan</h1>
+<h3 align="center">Software Engineer | Java Backend Developer | Android Enthusiast</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoykaran&" alt="mrinmoykaran" /></p>
- <p align="center"><img src="https://komarev.com/ghpvc/?username=mrinmoykaran&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoykaran"/></p>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mrinmoykaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinmoykaran" height="30" width="40" /></a>
+<p align="center">
+Kolkata, India <br/>
+Java • Spring Boot • REST APIs • Android • Enterprise Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## About Me
 
+I am a Software Engineer with 3.5+ years of experience in enterprise application development, currently working at LTIMindtree as a JDE Technical Consultant.
 
+My expertise includes:
+
+- JD Edwards EnterpriseOne Development (FDA, RDA, BSFN, Orchestrator)
+- Java Backend Development with Spring Boot
+- REST API Design & System Integration
+- Android Development using Kotlin (MVVM Architecture)
+
+I am actively transitioning into Java Backend and Android product development, focusing on scalable system design and clean architecture principles.
+
+---
+
+## Technical Skills
+
+### Languages
+Java, Kotlin, Groovy, SQL, C
+
+### Backend & APIs
+Spring Boot, RESTful APIs, JSON, XML, JWT (project-based), JDE Orchestrator
+
+### Mobile Development
+Android SDK, Kotlin, MVVM, Coroutines, Retrofit, Firebase
+
+### Databases
+Oracle, MySQL, Firebase, SQLite
+
+### Tools
+Git, Maven, Postman, IntelliJ IDEA, Android Studio, JD Edwards EnterpriseOne
+
+---
+
+## Professional Experience
+
+**Software Engineer — LTIMindtree**  
+Sep 2022 – Present | Kolkata, India
+
+- Developed and customized JDE applications, UBEs, and Business Functions.
+- Built and enhanced JDE Orchestrations using Groovy scripting.
+- Integrated enterprise systems using REST-based APIs.
+- Performed debugging, performance tuning, and root cause analysis.
+- Resolved L2/L3 production issues across Finance and Distribution modules.
+
+---
+
+## Selected Projects
+
+### Foodie – Local Food Delivery Platform
+Java, Spring Boot, Kotlin, Android SDK, MySQL
+
+- Designed and developed RESTful backend services.
+- Implemented role-based APIs for users, restaurants, and delivery agents.
+- Built Android app using MVVM architecture and Retrofit.
+- Focused on clean code, modular design, and scalability.
+
+### Exam Room – Android Exam Hosting App
+Java, Kotlin, Firebase
+
+- Developed Android application with MVVM architecture.
+- Integrated Firebase Authentication and Realtime Database.
+- Applied strong OOP principles for maintainable architecture.
+
+### Quick Mail – Generative AI Chrome Extension
+JavaScript, HTML, CSS
+
+- Built a Chrome extension to generate contextual email replies.
+- Implemented modular logic and structured JSON-based data handling.
+
+---
+
+## Education
+
+Master of Computer Applications (MCA)  
+Kalyani Government Engineering College (2019 – 2022)
+
+Bachelor of Computer Applications (BCA) — University Rank 1  
+Vidyasagar University (2016 – 2019)
+
+---
+
+## Achievements
+
+- Super Crew Award – Technical Excellence
+- Techathon 2025 – Top 15 Teams
+- University Rank 1 in BCA
+
+---
+
+## Connect With Me
+
+LinkedIn: https://linkedin.com/in/mrinmoykaran  
+Email: karanmrinmoy98@gmail.com
+
+---
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoykaran&" alt="mrinmoykaran" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mrinmoykaran&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoykaran"/>
+</p>
